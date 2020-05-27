@@ -1,6 +1,8 @@
 # Battery-meter
 Capacity and internal resistance meter for lithium(18650) and other type batteries
 
+Result measurements graphed and stored with Node-Red (Dashboard)
+![alt text](https://raw.githubusercontent.com/Perr/Battery-meter/master/bad_cell.png)
 
 Working prototype:
 ![alt text](https://raw.githubusercontent.com/Perr/Battery-meter/master/prototype_expl.jpg)
